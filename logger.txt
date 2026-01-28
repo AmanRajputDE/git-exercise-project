@@ -1,0 +1,5 @@
+Simple Logger Module
+
+Function: logInfo
+Description: Log information messages
+Format: [INFO] timestamp: message
