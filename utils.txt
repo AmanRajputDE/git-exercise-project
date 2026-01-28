@@ -1,0 +1,17 @@
+Utility Functions
+
+Function 1: formatDate
+Description: Format date to ISO string format
+Input: date object
+Output: formatted date string (YYYY-MM-DD)
+
+Function 2: capitalizeString
+Description: Capitalize first letter of string
+Input: string
+Output: capitalized string
+
+Function 3: isValidEmail
+Description: Validate email format
+Input: email string
+Output: true/false
+Pattern: must contain @ and domain
