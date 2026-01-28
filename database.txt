@@ -1,0 +1,10 @@
+Database Connection Module
+
+Configuration:
+Host: localhost
+Port: 5432
+Database Name: git_exercise_db
+
+Function: connect
+Description: Connect to database
+Output: Connection status message
