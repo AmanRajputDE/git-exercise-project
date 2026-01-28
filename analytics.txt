@@ -1,0 +1,17 @@
+Analytics Module
+
+Function: trackEvent
+Description: Tracks an event with the given name and data
+
+Parameters:
+- eventName: Name of the event to track (string)
+- eventData: Additional data for the event (object)
+
+Returns:
+Object containing:
+- event: event name
+- timestamp: current time
+- data: event data
+
+Example:
+trackEvent('user_login', { userId: 123 })
