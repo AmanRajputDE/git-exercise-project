@@ -1,0 +1,7 @@
+Main Application Entry Point
+
+Starting Git Exercise Project
+Version: 1.0.0
+Environment: development
+
+Application logic will go here

@@ -1,0 +1,9 @@
+Project Information
+
+Name: git-exercise-project
+Version: 1.0.0
+Description: Git workflow practice project
+Main File: main.txt
+Keywords: git, practice
+Author: Your Name
+License: MIT

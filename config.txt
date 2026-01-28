@@ -1,0 +1,6 @@
+Project Configuration File
+
+Project Name: Git Exercise Project
+Version: 1.0.0
+Environment: development
+API Base URL: https://api.example.com
