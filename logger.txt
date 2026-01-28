@@ -3,3 +3,11 @@ Simple Logger Module
 Function: logInfo
 Description: Log information messages
 Format: [INFO] timestamp: message
+
+Function: logError
+Description: Log error messages
+Format: [ERROR] timestamp: message
+
+Function: logWarning
+Description: Log warning messages
+Format: [WARN] timestamp: message
