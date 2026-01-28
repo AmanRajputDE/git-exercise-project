@@ -1,0 +1,21 @@
+Contributing Guidelines
+
+Git Workflow:
+
+1. Create a feature branch from develop
+2. Make your changes
+3. Follow commit message format: TP2-TXXX: Description
+4. Create a Pull Request to develop
+5. Wait for code review
+
+Code Standards:
+
+- Use meaningful file names
+- Add clear descriptions in documentation
+- Write clean, readable content
+
+Testing:
+
+- Test all changes locally before pushing
+- Ensure no breaking changes
+- Verify all files are properly formatted
